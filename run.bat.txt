@@ -1,0 +1,1 @@
+cd D:\Eclipse Workspace\opencartV1.1>mvn clean test
